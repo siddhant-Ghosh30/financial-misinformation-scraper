@@ -1,0 +1,6 @@
+.DS_Store
+pib_financial_factchecks.csv
+tweetextract.ipynb
+venv/
+__pycache__/
+.ipynb_checkpoints/
