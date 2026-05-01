@@ -81,7 +81,15 @@ seed_urls = [
 ]
 ```
 
-3. Run the script
+3. Limit to first 7 links per listing page (you can increase or decrease. Increasing will take more time)
+
+```python
+if links:
+            all_urls.extend(links[:7]) 
+
+```
+
+4. Run the script
 
 Output:
 
